@@ -31,6 +31,7 @@ DOMAIN,bybit.ada.support
 DOMAIN,cbsi.live.ott.irdeto.com
 DOMAIN,cbsplaylistserver.aws.syncbak.com
 DOMAIN,cbsservice.aws.syncbak.com
+DOMAIN,cdn-spotify-experiments.conductrics.com
 DOMAIN,cdn.js7k.com
 DOMAIN,cisco.evergage.com
 DOMAIN,clubhouse.pubnubapi.com
@@ -265,7 +266,7 @@ DOMAIN-SUFFIX,2023aga.oen.tw
 DOMAIN-SUFFIX,20thcenturystudios.com.au
 DOMAIN-SUFFIX,20thcenturystudios.com.br
 DOMAIN-SUFFIX,20thcenturystudios.jp
-DOMAIN-SUFFIX,20 年之前offea.com
+DOMAIN-SUFFIX,20yearsoffea.com
 DOMAIN-SUFFIX,21centuryaccess.com
 DOMAIN-SUFFIX,21heise360dh.cc
 DOMAIN-SUFFIX,21hub.com
@@ -505,7 +506,7 @@ DOMAIN-SUFFIX,8muses.io
 DOMAIN-SUFFIX,8muses.xxx
 DOMAIN-SUFFIX,8thstreetlatinas.com
 DOMAIN-SUFFIX,8xxx.net
-DOMAIN-SUFFIX,90 秒之前.asia
+DOMAIN-SUFFIX,90seconds.asia
 DOMAIN-SUFFIX,91av.one
 DOMAIN-SUFFIX,91avfuli.com
 DOMAIN-SUFFIX,91beiyong.com
@@ -972,7 +973,7 @@ DOMAIN-SUFFIX,agemys.org
 DOMAIN-SUFFIX,agendaweek.com
 DOMAIN-SUFFIX,agenet.ac.uk
 DOMAIN-SUFFIX,agocg.ac.uk
-DOMAIN-SUFFIX,agoogle1 天之前.com
+DOMAIN-SUFFIX,agoogleaday.com
 DOMAIN-SUFFIX,agrd.io
 DOMAIN-SUFFIX,agressofinanceroyalholloway.ac.uk
 DOMAIN-SUFFIX,agrifoodatp.ac.uk
@@ -4524,6 +4525,7 @@ DOMAIN-SUFFIX,bygpp1207.world
 DOMAIN-SUFFIX,byjav.me
 DOMAIN-SUFFIX,byjhd.com
 DOMAIN-SUFFIX,bymj.io
+DOMAIN-SUFFIX,byspotify.com
 DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,bytick.com
 DOMAIN-SUFFIX,byzantine-ahrb-centre.ac.uk
@@ -5760,7 +5762,6 @@ DOMAIN-SUFFIX,covuni.ac.uk
 DOMAIN-SUFFIX,covuniapps.ac.uk
 DOMAIN-SUFFIX,cowboom.com
 DOMAIN-SUFFIX,cowc.ac.uk
-DOMAIN-SUFFIX,www.tunemymusic.com
 DOMAIN-SUFFIX,cowork.ac.uk
 DOMAIN-SUFFIX,cozydrdrebeats.com
 DOMAIN-SUFFIX,cp44.net
@@ -6567,7 +6568,7 @@ DOMAIN-SUFFIX,disneyinflight.com
 DOMAIN-SUFFIX,disneyinternational.com
 DOMAIN-SUFFIX,disneyinternationalhd.com
 DOMAIN-SUFFIX,disneyjunior.com
-DOMAIN-SUFFIX,disneyjuniortreat1 天之前.com
+DOMAIN-SUFFIX,disneyjuniortreataday.com
 DOMAIN-SUFFIX,disneylatino.com
 DOMAIN-SUFFIX,disneymagicmoments.co.il
 DOMAIN-SUFFIX,disneymagicmoments.co.uk
@@ -8325,7 +8326,7 @@ DOMAIN-SUFFIX,fapteencam.com
 DOMAIN-SUFFIX,faptitans.com
 DOMAIN-SUFFIX,fapvid.com
 DOMAIN-SUFFIX,fapxl.com
-DOMAIN-SUFFIX,far1 天之前.ac.uk
+DOMAIN-SUFFIX,faraday.ac.uk
 DOMAIN-SUFFIX,fareastpornhub.com
 DOMAIN-SUFFIX,fareham.ac.uk
 DOMAIN-SUFFIX,farfetch-apps.com
@@ -20384,6 +20385,17 @@ DOMAIN-SUFFIX,sportsfacebook.com
 DOMAIN-SUFFIX,sportstream.com
 DOMAIN-SUFFIX,sportswomanoftheyear.co.uk
 DOMAIN-SUFFIX,sportswomenoftheyear.co.uk
+DOMAIN-SUFFIX,spoti.fi
+DOMAIN-SUFFIX,spotify-everywhere.com
+DOMAIN-SUFFIX,spotify.com
+DOMAIN-SUFFIX,spotify.design
+DOMAIN-SUFFIX,spotify.link
+DOMAIN-SUFFIX,spotifycdn.com
+DOMAIN-SUFFIX,spotifycdn.net
+DOMAIN-SUFFIX,spotifycharts.com
+DOMAIN-SUFFIX,spotifycodes.com
+DOMAIN-SUFFIX,spotifyforbrands.com
+DOMAIN-SUFFIX,spotifyjobs.com
 DOMAIN-SUFFIX,spr.ac.uk
 DOMAIN-SUFFIX,spraynwash.com
 DOMAIN-SUFFIX,spreadporn.org
@@ -31008,13 +31020,13 @@ DOMAIN-KEYWORD,paypal
 DOMAIN-KEYWORD,porn
 DOMAIN-KEYWORD,sci-hub
 DOMAIN-KEYWORD,skydrive
+DOMAIN-KEYWORD,spotify
 DOMAIN-KEYWORD,telegram
 DOMAIN-KEYWORD,ttvnw
 DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,uk-live
 DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,youtube
-DOMAIN-KEYWORD,tunemymusic
 IP-CIDR,1.201.0.0/24,no-resolve
 IP-CIDR,101.32.118.0/23,no-resolve
 IP-CIDR,101.32.96.0/20,no-resolve
